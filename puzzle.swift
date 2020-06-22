@@ -1,10 +1,3 @@
-//
-//  main.swift
-//  HW3
-//
-//  Created by atena on 6/22/20.
-//  Copyright © 2020 atena. All rights reserved.
-//
 
 import Foundation
 
